@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+table tbody tr td {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
